@@ -1,0 +1,13 @@
+{
+    "name": "devdrops/twig-tips-and-tricks",
+    "description": "Practices from http://www.slideshare.net/javier.eguiluz/twig-tips-and-tricks",
+    "require": {
+        "symfony/symfony": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "Davi Marcondes Moreira",
+            "email": "davi.marcondes.moreira@gmail.com"
+        }
+    ]
+}
